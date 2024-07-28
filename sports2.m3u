@@ -1,0 +1,242 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Auto Motor Sport
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&deviceId=5f760c3d41aa2d0007bfde19&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false?source:iptvmate.net
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ITV SPORTS
+https://sportsleading.online/live/stream_10.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8?source:iptvmate.net
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MAHAR SPORTS
+http://tv.mahar.live/esports/mahar.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORTS TV 🇹🇷
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", X SPORT
+http://iptv.prosto.tv:7000/ch110/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", X SPORT PLUS
+http://iptv.prosto.tv:7000/ch117/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Turkmenistan Sport 🇹🇲
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Turkmenistan Sport 🇹🇲
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TENNIS
+https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORT LIVE 🇶🇦
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TLT + Willow Sports
+http://cdn.live247stream.com/thelight/tv/thelight/stream2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PTV sports
+http://175.107.244.52:4457/play/a08g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TLT  1
+http://cdn.live247stream.com/thelight/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SKY SPORTS GOLF
+http://89.187.167.92:80/live.ts?channelId=147&deviceUser=alex1234&devicePass=alex1234&uid=21890
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sports Racing.
+http://89.187.167.92:80/live.ts?channelId=148&deviceUser=alex1234&devicePass=alex1234&uid=21890
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN 6
+http://45.166.92.22:58001/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GOLTV HD.
+http://45.166.92.22:58001/play/a04k/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TyCSports HD.
+http://45.166.92.22:58001/play/a04d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS (MMNHD)
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS EXTRA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimittrueofileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DUBAI SPORTS
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dubai Sports 2 FHD
+http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dubai Sports 3 FHD
+http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORT LIVE 🇶🇦
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SKY SPORTS GOLF
+http://89.187.167.92:80/live.ts?channelId=147&deviceUser=alex1234&devicePass=alex1234&uid=21890
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sports Racing.
+http://89.187.167.92:80/live.ts?channelId=148&deviceUser=alex1234&devicePass=alex1234&uid=21890
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xKJoN8L.png" group-title="Without category", DSTV
+http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/736QREy.png" group-title="Without category", Pac-12 Insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Without category", MLB
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vg4fxmc.png" group-title="Without category", Dubai Racing 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LW77x7g.png" group-title="Without category", Pluto TV Sports UK
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56340779a738201b4ccfeac9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=725&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7k8ar1Z.png" group-title="Without category", M-Net Sport
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category", W14DK-D5
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3yJ9QN.png" group-title="Without category", World Poker Tour Italy
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1IXQoWq.png" group-title="Without category", Sport en France
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/736QREy.png" group-title="Without category", Pac-12 Insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Without category", MLB
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vg4fxmc.png" group-title="Without category", Dubai Racing 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LW77x7g.png" group-title="Without category", Pluto TV Sports UK
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56340779a738201b4ccfeac9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=725&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7k8ar1Z.png" group-title="Without category", M-Net Sport
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category", W14DK-D5
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category", A SPORT  🇮🇳
+http://mixbix.xyz:8080/live/fAueYvrzHX58/9xTFRAYVjxbj/236842.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category",beIN SPORT 1 ENGLISH 🇬🇧
+http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/237237
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category",beIN SPORT 2 ENGLISH 🇬🇧
+http://mixbix.xyz:8080/Zx5WVffKH747/xxhPzTc8etFw/237254
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category",beIN SPORT 2 🇬🇧
+http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/237254.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category",TNT SPORT 1 🇬🇧
+http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4449&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category",TNT SPORT 1 🇬🇧
+http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4445&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category",TNT SPORT 2 🇬🇧
+http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4446&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category",TNT SPORT 3 🇬🇧
+http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4447&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category",TNT SPORT 4 🇬🇧
+https://7pal.short.gy/tntspts4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category",TNT SPORT 4 🇬🇧
+http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4448&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category",TNT SPORT 5 🇬🇧
+http://lordofthepings.xyz:8080/play/live.php?mac=00:1A:79:C8:3D:DF&stream=4462&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category",Bein Sports 1 France 🇫🇷
+http://51.178.65.238/BeinSport/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category",Match HD--КК 🇷🇺
+http://178.212.71.253:8002/play/a00k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category",Match HD 🇷🇺
+http://91.142.158.107:8092/play/33/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category",Матч! Футбол 1 HD 🇷🇺
+http://91.207.114.209:5000/c114
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category",Матч! Футбол 2 HD 🇷🇺
+http://91.207.114.209:5000/c115
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category",Матч! Футбол 3 HD 🇷🇺
+http://91.207.114.209:5000/c116
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category",Матч! Футбол 3 HD 🇷🇺
+http://193.201.98.10:5000/c116
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category", Setanta Sports 1 🇷🇺
+https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category", Setanta Sports 2 🇷🇺
+https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category", Setanta Sports KZ 🇰🇿
+https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category",Setanta Sports 1 🇺🇦
+https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n44bwe5rw4k6q68mxhy99h7z5abid8gkju2pcund6c4x89hq96789999.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category",SETANTA SPORT 2 🇺🇦
+http://ru.iptv.monster/play/943/58A6BB07681962A/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category", Ziggo Sport Select HD 🇳🇱
+http://78.130.250.2:8023/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category",Ziggo Sport Voetbal 🇳🇱
+http://78.130.250.2:8023/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category", Ziggo Sport Golf 🇳🇱
+http://78.130.250.2:8023/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category",bTVActionHD 🇧🇬
+http://185.163.244.10:204/play/bTVActionHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category", Беларусь 5 🇧🇾
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category", Беларусь 5 🇧🇾
+https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category", Беларусь 5 🇧🇾
+http://strm.yandex.ru/kal/belarus_5/belarus_50.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category", MMN Sport 🇶🇦
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category", ARENA SPORT 1 🇭🇷
+http://80.252.37.194:5000/udp/233.233.233.3:12000
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Without category", Arena Sport 4 (HR) 🇭🇷
+http://80.252.37.194:5000/udp/233.233.233.6:12000
+
